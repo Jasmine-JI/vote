@@ -1,1 +1,37 @@
-/* You can add global styles to this file, and also import other style files */
+$primary:#D4009B;
+$text_primary:#334155 ;
+$text_secondary:#64748B;
+$bg_color:#E9ECEF;
+$hover_color:#F8F9FA;
+$line_color:#DEE2E6;
+$role_1:#8082FF;
+$role_2:#F4A76F;
+$role_3:#57D2A9;
+*{
+  font-family:Roboto, Noto Sans;
+  margin: 0;
+  padding: 0;
+  line-height: 1;
+  list-style: none;
+}
+h1{
+  font-size:  40px;
+  font-weight: 700;
+}
+h2{
+  font-size: 32px;
+  font-weight: 700;
+}
+h3{
+  font-size: 28px;
+  font-weight: 700;
+}
+h4{
+  font-size: 24px;
+  font-weight: 700;
+}
+h5{
+  font-size: 20px;
+  font-weight: 700;
+}
+
